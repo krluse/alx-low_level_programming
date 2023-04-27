@@ -1,1 +1,1 @@
-Description of what each script does :
+Description of each script :
